@@ -1,0 +1,2354 @@
+{
+    "blackCards":[
+        {
+            "text":"Why can't Triggs sleep at night?",
+            "pick":1
+        },
+        {
+            "text":"Ruby's got 99 problems but _ ain't one.",
+            "pick":1
+        },
+        {
+            "text":"What's a girl's best friend?",
+            "pick":1
+        },
+        {
+            "text":"What's that smell?",
+            "pick":1
+        },
+        {
+            "text":"This is the way College Craze ends \/ Not with a bang but with _.",
+            "pick":1
+        },
+        {
+            "text":"What is Rafi's guilty pleasure?",
+            "pick":1
+        },
+        {
+            "text":"Sugardale U now prohibits _ on campus.",
+            "pick":1
+        },
+        {
+            "text":"The main topic of to Ruby's admission essay: How I overcame _ and learned to live with _.",
+            "pick":1
+        },
+        {
+            "text":"Don't miss out on this riveting documentary. From _ to _ : A true Toffee Springs story. ",
+            "pick":1
+        },
+        {
+            "text":"Grady drinks to forget _.",
+            "pick":1
+        },
+        {
+            "text":"I'm sorry, Professor McGregor, but I couldn't complete my homework because of _.",
+            "pick":1
+        },
+        {
+            "text":"Alternative medicine is now embracing the curative powers of _.",
+            "pick":1
+        },
+        {
+            "text":"What's that sound?",
+            "pick":1
+        },
+        {
+            "text":"What's MC's favorite sex toy?",
+            "pick":1
+        },
+        {
+            "text":"It's a pity that students these days are all getting involved with _.",
+            "pick":1
+        },
+        {
+            "text":"In the new College Craze release, MC struggles with _ for the first time.",
+            "pick":1
+        },
+        {
+            "text":"_. That's how I want to die.",
+            "pick":1
+        },
+        {
+            "text":"What does Bernie prefer?",
+            "pick":1
+        },
+        {
+            "text":"What's Jay's biggest turn off?",
+            "pick":1
+        },
+        {
+            "text":"Instead of Fs, Dr.Gray now gives the failing students _.",
+            "pick":1
+        },
+        {
+            "text":"The next game from Pretty Ink will be a platformer all about _.",
+            "pick":1
+        },
+        {
+            "text":"A romantic, candlelit dinner would be incomplete without _.",
+            "pick":1
+        },
+        {
+            "text":"People who live in Sach Summ like _.",
+            "pick":1
+        },
+        {
+            "text":"_. Betcha can't have just one!",
+            "pick":1
+        },
+        {
+            "text":"War! What is it good for?",
+            "pick":1
+        },
+        {
+            "text":"Chad won't roll out of bed for less than a _.",
+            "pick":1
+        },
+        {
+            "text":"_, part of a complete balanced breakfast.",
+            "pick":1
+        },
+        {
+            "text":"During sex, Jace likes to think about _.",
+            "pick":1
+        },
+        {
+            "text":"What did MC bring back from Bitterby?",
+            "pick":1
+        },
+        {
+            "text":"What are MC's parents hiding from her?",
+            "pick":1
+        },
+        {
+            "text":"What will always get you laid?",
+            "pick":1
+        },
+        {
+            "text":"What would Gabe find disturbing, yet oddly charming?",
+            "pick":1
+        },
+        {
+            "text":"What did Blair give to MC on her first day of class?",
+            "pick":1
+        },
+        {
+            "text":"What helps Bryce unwind?",
+            "pick":1
+        },
+        {
+            "text":"What's there a ton of in heaven?",
+            "pick":1
+        },
+        {
+            "text":"The Science Society has banned _ for giving students an unfair advantage on exams.",
+            "pick":1
+        },
+        {
+            "text":"When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
+            "pick":1
+        },
+        {
+            "text":"A _ a day keeps Dr. Gray away. ",
+            "pick":1
+        },
+        {
+            "text":"When I am the President of Sugardale U, I will create the _ department of studies.",
+            "pick":1
+        },
+        {
+            "text":"_. It's a trap!",
+            "pick":1
+        },
+        {
+            "text":"How am I maintaining my relationship status?",
+            "pick":1
+        },
+        
+        
+        {
+            "text":"Coming to Broadway this season, _: The Musical.",
+            "pick":1
+        },
+        {
+            "text":"What's Trish's secret power?",
+            "pick":1
+        },
+        {
+            "text":"What gives Shaun uncontrollable gas?",
+            "pick":1
+        },
+        {
+            "text":"But before I kill you, Stalker-chan, I must show you _.",
+            "pick":1
+        },
+        {
+            "text":"What never fails to liven up the party?",
+            "pick":1
+        },
+        {
+            "text":"What is April giving up for Lent?",
+            "pick":1
+        },
+        {
+            "text":"What does Officer Arroyo smell like? ",
+            "pick":1
+        },
+        {
+            "text":"The class field trip was completely ruined by _.",
+            "pick":1
+        },
+        
+        {
+            "text":"I do not know with which weapons World War III will be fought, but World War IV will be fought with _.",
+            "pick":1
+        },
+        {
+            "text":"What's Teach for America using to inspire Toffee Springs kids to succeed?",
+            "pick":1
+        },
+        {
+            "text":"In Bruno's final moments, he thought about _.",
+            "pick":1
+        },
+        {
+            "text":"Why do I hurt all over?",
+            "pick":1
+        },
+        {
+            "text":"Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+            "pick":1
+        },
+        {
+            "text":"Why am I sticky?",
+            "pick":1
+        },
+        {
+            "text":"What's Blair's anti-drug?",
+            "pick":1
+        },
+        {
+            "text":"And the Academy Award for _ goes to _.",
+            "pick":2
+        },
+        {
+            "text":"For my next trick, I will pull _ out of _.",
+            "pick":2
+        },
+        {
+            "text":"_: Good to the last drop.",
+            "pick":1
+        },
+        {
+            "text":"What did Dean Monroe eat for dinner?",
+            "pick":1
+        },
+        {
+            "text":"_: kid-tested, Triggs-approved.",
+            "pick":1
+        },
+        {
+            "text":"What gets better with age?",
+            "pick":1
+        },
+        {
+            "text":"I never truly understood _ until I encountered _.",
+            "pick":2
+        },
+        {
+            "text":"Rumor has it that Officer Helms' favorite delicacy is _ stuffed with _.",
+            "pick":2
+        },
+        {
+            "text":"Lifetime presents _, the story of _.",
+            "pick":2
+        },
+        {
+            "text":"Make a haiku.",
+            "pick":3
+        },
+        {
+            "text":"Pierce has just been cast in a new movie, where he discovers that _ had really been _ all along.",
+            "pick":2
+        },
+        {
+            "text":"_ is a slippery slope that leads to _.",
+            "pick":2
+        },
+        {
+            "text":"In a Sugardale ravaged by _, our only solace is _.",
+            "pick":2
+        },
+        {
+            "text":"That's right, I killed _. How, you ask? _.",
+            "pick":2
+        },
+        {
+            "text":"When Rafi was tripping on acid, _ turned into _.",
+            "pick":2
+        },
+        {
+            "text":"_ + _ = _.",
+            "pick":3
+        },
+        {
+            "text":"What's the next superhero\/sidekick duo?",
+            "pick":2
+        },
+        {
+            "text":"Dear Pretty, I'm having some trouble with _ and would like your advice.",
+            "pick":1
+        },
+        
+        {
+            "text":"In Sugardale County Jail, word is you can trade 200 cigarettes for _.",
+            "pick":1
+        },
+        {
+            "text":"Maybe she's born with it. Maybe it's _.",
+            "pick":1
+        },
+        {
+            "text":"Life of _ was forever changed when _ introduced him to _.",
+            "pick":3
+        },
+        {
+            "text":"Next on ESPN2, the World Series of _.",
+            "pick":1
+        },
+        {
+            "text":"Step 1: _. Step 2: _. Step 3: Profit.",
+            "pick":2
+        },
+        {
+            "text":"Here is the church... Here is the steeple... Open the doors... And there is _.",
+            "pick":1
+        },
+        {
+            "text":"How did I lose my virginity?",
+            "pick":1
+        },
+        {
+            "text":"During his childhood, Rafi produced hundreds of paintings of _.",
+            "pick":1
+        },
+        {
+            "text":"In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?",
+            "pick":1
+        },
+        {
+            "text":"What don't you want to find in your Holy O's Donut?",
+            "pick":1
+        },
+        {
+            "text":"The Smithsonian Museum of Natural History has just opened an exhibit on _.",
+            "pick":1
+        },
+        {
+            "text":"Why is Courtney crying?",
+            "pick":1
+        },
+        {
+            "text":"An international tribunal has found _ guilty of _.",
+            "pick":2
+        },
+        {
+            "text":"And I would have gotten away with it, too, if it hadn't been for _!",
+            "pick":1
+        },
+        {
+            "text":"Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _.",
+            "pick":2
+        },
+        {
+            "text":"She who controls _ controls the world.",
+            "pick":1
+        },
+        {
+            "text":"I learned the hard way that you can't cheer up a grieving friend with _.",
+            "pick":1
+        },
+        {
+            "text":"In a pinch, _ can be a suitable substitute for _.",
+            "pick":2
+        },
+        {
+            "text":"In his new self-produced album, Gabe sings over the sounds of _.",
+            "pick":1
+        },
+        {
+            "text":"In its new tourism campaign, Sugardale proudly proclaims that it has finally eliminated _.",
+            "pick":1
+        },
+        {
+            "text":"In Caramel Bay, there are whisperings that Jay's childhood home has a secret room devoted to _.",
+            "pick":1
+        },
+        {
+            "text":"In the distant future, historians will agree that _ marked the beginning of Sugardale's decline.",
+            "pick":1
+        },
+        {
+            "text":"A new three-hour action epic film pits _ against _.",
+            "pick":2
+        },
+        {
+            "text":"Stalker-chans plan for world domination begins with _.",
+            "pick":1
+        },
+        {
+            "text":"In the next game by Pretty Ink, _ must survive the depths of the Amazon with only _ and their wits.",
+            "pick":2
+        },
+        {
+            "text":"Ruby will never understand _.",
+            "pick":1
+        },
+        {
+            "text":"Science will never explain the origin of _.",
+            "pick":1
+        },
+        {
+            "text":"Officer Helms now interrogates suspects by repeatedly subjecting them to _.",
+            "pick":1
+        },
+        {
+            "text":"The secret to a lasting marriage is communication, empathy, and _.",
+            "pick":1
+        },
+        {
+            "text":"Bernie and Grady both agree that access to _ is a basic human right.",
+            "pick":1
+        },
+        
+        {
+            "text":"What brought the orgy to a grinding halt?",
+            "pick":1
+        },
+        {
+            "text":"What has been making life difficult at the Investment initiation?",
+            "pick":1
+        },
+        {
+            "text":"What's the gift that keeps on giving?",
+            "pick":1
+        },
+        {
+            "text":"When all else fails, I can always masturbate to _.",
+            "pick":1
+        },
+        
+        {
+            "text":"_ would be woefully incomplete without _.",
+            "pick":2
+        },
+        {
+            "text":"After months of debate, Demi and Rafi could only agree on \"More _!\"",
+            "pick":1
+        },
+        {
+            "text":"Before _, all Samir had was _.",
+            "pick":2
+        },
+        {
+            "text":"Before Thomas runs for Science Society president, he must destroy all evidence of his involvement with _.",
+            "pick":1
+        },
+        {
+            "text":"Charades was ruined for MC forever when my her stepmom had to act out _.",
+            "pick":1
+        },
+        {
+            "text":"During his midlife crisis, Dean Monroe got really into _.",
+            "pick":1
+        },
+        {
+            "text":"Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+            "pick":1
+        },
+        {
+            "text":"I spent my whole life working toward _, only to have it ruined by _.",
+            "pick":2
+        },
+        {
+            "text":"I went from _ to _, all thanks to _.",
+            "pick":3
+        },
+        {
+            "text":"If God didn't want us to enjoy _, he wouldn't have given us _.",
+            "pick":2
+        },
+        {
+            "text":"In his newest and most difficult stunt, Ruby must escape from _.",
+            "pick":1
+        },
+        {
+            "text":"Members of New Abrosia's social elite are paying thousands of dollars just to experience _.",
+            "pick":1
+        },
+        {
+            "text":"My country, 'tis of thee, sweet land of _.",
+            "pick":1
+        },
+        {
+            "text":"MC freaked out when she looked at _'s browser history and found _.",
+            "pick":2
+        },
+        {
+            "text":"Professor McGregor's secret pornstar persona is Joey \"_\" McGee.",
+            "pick":1
+        },
+        {
+            "text":"Lately, Pretty's been worried about how to talk to the server about _.",
+            "pick":1
+        },
+        {
+            "text":"Only two things in life are certain: death and _.",
+            "pick":1
+        },
+        {
+            "text":"The Five Stages of Grief: denial, anger, bargaining, _, acceptance.",
+            "pick":1
+        },
+        {
+            "text":"The healing process began when I joined a support group for victims of _.",
+            "pick":1
+        },
+        {
+            "text":"The votes are in, and the new Sugardale U mascot is _.",
+            "pick":1
+        },
+        {
+            "text":"Dr.Gray expects every student to be prepared for _ in her class.",
+            "pick":1
+        },
+        {
+            "text":"This month's Cosmo: \"Spice up your sex life by bringing _ into the bedroom.\"",
+            "pick":1
+        },
+        {
+            "text":"Tonight on 20\/20: What you don't know about _ could kill you.",
+            "pick":1
+        },
+        {
+            "text":"You haven't truly lived until you've experienced _ and _ at the same time.",
+            "pick":2
+        },
+        
+        {
+            "text":"What's this quickest way to kill Jace's boner?",
+            "pick":1
+        },
+        {
+            "text":"Your persistence is admirable, my dear Bryce. But you cannot win my heart with _ alone.",
+            "pick":1
+        },
+        {
+            "text":"In the seventh circle of Hell, sinners must endure _ for all eternity.",
+            "pick":1
+        },
+        {
+            "text":"A successful job interview begins with a firm handshake and ends with _.",
+            "pick":1
+        },
+        {
+            "text":"\"Why aren't you in class?\" Asked Professor McGregor. \"_\" replied MC",
+            "pick":1
+        },
+        {
+            "text":"Demi's life is ruled by a vicious cycle of _ and _.",
+            "pick":2
+        },
+        {
+            "text":"The blind date between Ruby and Demi was going horribly until they discovered their shared interest in _.",
+            "pick":1
+        },
+        {
+            "text":"_. Awesome in theory, kind of a mess in practice.",
+            "pick":1
+        },
+        {
+            "text":"_, _, and _, the makings of a night from hell.",
+            "pick":3
+        },
+        {
+            "text":"_: Hours of fun. Easy to use. Perfect for _!",
+            "pick":2
+        },
+        {
+            "text":"What left this stain on my couch?",
+            "pick":1
+        },
+        {
+            "text":"When MC's getting railed, she likes to think about _.",
+            "pick":1
+        },
+        {
+            "text":"When you get right down to it, _ is just _.",
+            "pick":2
+        },
+        {
+            "text":"Turns out that _-Man was neither the hero we needed nor wanted.",
+            "pick":1
+        },
+        {
+            "text":"As part of his daily regimen, Bby sets aside 15 minutes for _.",
+            "pick":1
+        },
+        {
+            "text":"Money can't buy me love, but it can buy me _.",
+            "pick":1
+        },
+        {
+            "text":"With enough time and pressure, _ will turn into _.",
+            "pick":2
+        },
+        {
+            "text":"And what did Triggs bring for show and tell?",
+            "pick":1
+        },
+        {
+            "text":"Sugardale's least popular club is the _ club.",
+            "pick":1
+        },
+        {
+            "text":"Grady: Hey baby, come back to my place and I'll show you _.",
+            "pick":1
+        },
+        {
+            "text":"After months of practice with _, I think I'm finally ready for _.",
+            "pick":2
+        },
+        {
+            "text":"To prepare for his thesis defense, Thomas immersed himself in the world of _.",
+            "pick":1
+        },
+        {
+            "text":"Finally! A service that delivers _ right to your door.",
+            "pick":1
+        },
+        {
+            "text":"Gabe got fired for adding _ to the interview process.",
+            "pick":1
+        },
+        {
+            "text":"Having problems with _? Try _!",
+            "pick":2
+        },
+        {
+            "text":"As part of his contract, Pierce won't perform without _ in his dressing room.",
+            "pick":1
+        },
+        {
+            "text":"Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
+            "pick":2
+        },
+        {
+            "text":"What's fun until it gets weird?",
+            "pick":1
+        },
+        {
+            "text":"In the beginning, there was _. And the Lord said, \"Let there be _.\"",
+            "pick":2
+        },
+        {
+            "text":"_. Chad's favorite form of foreplay.",
+            "pick":1
+        },
+        {
+            "text":"_ will never be the same after _.",
+            "pick":2
+        },
+        {
+            "text":"I'm sorry, but we don't allow _ at the Vibez House.",
+            "pick":1
+        },
+        {
+            "text":"How is Samir compensating for his personality?",
+            "pick":1
+        },
+        {
+            "text":"You've seen the bearded lady! You've seen the ring of fire! Now, ladies and gentlemen, feast your eyes upon _!",
+            "pick":1
+        },
+        {
+            "text":"We never did find _, but along the way we sure learned a lot about _.",
+            "pick":2
+        },
+        {
+            "text":"She's up all night for good fun. I'm up all night for _.",
+            "pick":1
+        },
+        {
+            "text":"_ may pass, but _ will last forever.",
+            "pick":2
+        },
+        {
+            "text":"Dean's wife can't stand it when he _.",
+            "pick":1
+        },
+        
+        {
+            "text":"Man, this is bullshit. Fuck _.",
+            "pick":1
+        },
+        {
+            "text":"You guys, I saw this crazy movie last night. It opens on _, and then there's some stuff about _, and then it ends with _.",
+            "pick":3
+        },
+        {
+            "text":"In return for my soul, Satan promised me _, but all I got was _.",
+            "pick":2
+        },
+        {
+            "text":"In the distant future, Thomas will invent a smaller, more efficient version of _.",
+            "pick":1
+        },
+        {
+            "text":"Alright, bros. Investment club is condemned, and all the hot chicks are over at an Art's party. The time has come to commence Operation _.",
+            "pick":1
+        },
+        {
+            "text":"This is the prime of my life. I'm young, hot, and full of _.",
+            "pick":1
+        },
+        {
+            "text":"I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _.",
+            "pick":1
+        },
+        {
+            "text":"It lurks in the night. It hungers for flesh. This summer, no one is safe from _.",
+            "pick":1
+        },
+        {
+            "text":"If you can't handle _, you'd better stay away from _.",
+            "pick":2
+        },
+        {
+            "text":"Forget everything you know about _, because now we've supercharged it with _!",
+            "pick":2
+        },
+        {
+            "text":"Honey, I have a new role-play I want to try tonight!",
+            "pick":1
+        },
+        {
+            "text":"You can be _, and I'll be _.",
+            "pick":2
+        },
+        {
+            "text":"This year's hottest album is \"_\" by _.",
+            "pick":2
+        },
+        {
+            "text":"Every step towards _ gets me a little bit closer to _.",
+            "pick":2
+        },
+        {
+            "text":"Pretty's first published book after CC will be titled \"_ For _: A Story of Hope.\"",
+            "pick":2
+        },
+        {
+            "text":"Do not fuck with me! I am literally _ right now.",
+            "pick":1
+        },
+        {
+            "text":"2 AM in the city that never sleeps. The door swings open and she walks in, legs up to here. Something in her eyes tells me she's looking for _.",
+            "pick":1
+        },
+        {
+            "text":"As king, how will the Sugarman keep the peasants in line?",
+            "pick":1
+        },
+        {
+            "text":"Adventure. Romance. _. The next game in the College Craze Cinematic Universe, \"_.\"",
+            "pick":2
+        },
+        {
+            "text":"I have become _, destroyer of _!",
+            "pick":2
+        },
+        {
+            "text":"And today's soup at the dining hall is Cream of _.",
+            "pick":1
+        },
+        {
+            "text":"Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _: priceless.",
+            "pick":1
+        },
+        {
+            "text":"Do the Dew with our most extreme flavor yet! Get ready for Mountain Dew _!",
+            "pick":1
+        },
+        {
+            "text":"Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _.",
+            "pick":1
+        },
+        {
+            "text":"Blair's last PopMe post: Having the worst day EVER. #_",
+            "pick":1
+        },
+        {
+            "text":"If you wanna be a good girl for Stalker-chan, just remember he will not tolerate _!",
+            "pick":1
+        },
+        {
+            "text":"Help me doctor, I've got _ in my butt!",
+            "pick":1
+        },
+        {
+            "text":"Here at the Sugardale U, we encourage all students to explore _ at their own pace.",
+            "pick":1
+        },
+        {
+            "text":"Ruby's dating profile: My name is Ruby, I'm from Sweetbush, I'm into _, and I love to have a good time.",
+            "pick":1
+        },
+        {
+            "text":"Hello Grady, I noticed a $1,200 charge labeled \"_.\" on your account. Can you explain?",
+            "pick":1
+        },
+        {
+            "text":"I don't mean to brag, but they call me the Micheal Jordan of _.",
+            "pick":1
+        },
+        {
+            "text":"Every freshman at Sugardale must be warned of the dangers of _.",
+            "pick":1
+        },
+        {
+            "text":"In their own spin-off action comedy, Jay and Triggs must fend off ninjas while also dealing with _.",
+            "pick":1
+        },
+        {
+            "text":"Shaun never leave his suite without _.",
+            "pick":1
+        },
+        {
+            "text":"Now in bookstores: \"The Audacity of _\" by Trish Danish.",
+            "pick":1
+        },
+        {
+            "text":"\"Is Rafi gonna make it, doc?\" \"I don't know. Patient presents with _ . Likely a result of _ .\"",
+            "pick":2
+        },
+        {
+            "text":"Well if _ is good enough for _, it's good enough for me.",
+            "pick":2
+        },
+        {
+            "text":"Well what do you have to say for yourself, Jace? This is the third time you've been sent to the Dean's office for _.",
+            "pick":1
+        },
+        {
+            "text":"What killed Thomas' boner?",
+            "pick":1
+        },
+        {
+            "text":"What's making things awkward in the sauna with Shaun and Jace?",
+            "pick":1
+        },
+        {
+            "text":"After a long, hard day, Dr.Gray loves nothing more than _.",
+            "pick":1
+        },
+        {
+            "text":"Why is MC's dad broke?",
+            "pick":1
+        },
+        {
+            "text":"I work my ass off all day for this family, and this what I come home to? _!?",
+            "pick":1
+        },
+        {
+            "text":"Samir has a strict policy. First date, dinner. Second date, kiss. Third date, _.",
+            "pick":1
+        },
+        {
+            "text":"When Grady was a kid he used to play Cowboys and _.",
+            "pick":1
+        },
+        {
+            "text":"Alan's secret fetish is: _.",
+            "pick":1
+        },
+        {
+            "text":"Luke is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _.",
+            "pick":1
+        },
+        {
+            "text":"Don't worry, kid. It gets better. I've been living with _ for 20 years.",
+            "pick":1
+        },
+        {
+            "text":"When Samir came to this country, he came in pursuit of _.",
+            "pick":1
+        },
+        {
+            "text":"Behind every powerful man is _.",
+            "pick":1
+        },
+        {
+            "text":"You are not alone. Millions of Americans struggle with _ every day.",
+            "pick":1
+        },
+        {
+            "text":"Come to Caramel Bay, where you can relax in our world-famous spas, experience the nightlife, or simply enjoy _ by the poolside.",
+            "pick":1
+        },
+        {
+            "text":"'This is madness!' 'No. THIS IS _!'",
+            "pick":1
+        },
+        {
+            "text":"Listen, Jace, I like you. But if you want head, you're going to have to show me _.",
+            "pick":1
+        },
+        {
+            "text":"Turns out my spirit animal is _.",
+            "pick":1
+        },
+        {
+            "text":"And would you like those wings mild, hot, or _?",
+            "pick":1
+        },
+        {
+            "text":"The six things I could never do without: oxygen, tiktok, chocolate, netflix, friends, and _ !",
+            "pick":1
+        },
+        {
+            "text":"Why won't Joe Helms make love to me anymore? Is it _?",
+            "pick":1
+        },
+        {
+            "text":"When you first start College Craze, you might develop an interest in _. This is normal.",
+            "pick":1
+        },
+        {
+            "text":"I'm sorry, MC's Dad, but there was nothing we could do. At 4:15 this morning, your daughter succumbed to _.",
+            "pick":1
+        },
+        {
+            "text":"Finish April's pageant speech, \"If I could make the world better by changing one thing, I would get rid of _.\"",
+            "pick":1
+        },
+        {
+            "text":"Rafi: \"Tonight, we will have sex. And afterwards, if you'd like, a little bit of _.\"",
+            "pick":1
+        },
+        {
+            "text":"Everybody join hands and close your eyes. Do you sense that? That's the presence of _ in this room.",
+            "pick":1
+        },
+        {
+            "text":"To become a true Investment club member, you must prove that you can withstand _ without crying out.",
+            "pick":1
+        },
+        {
+            "text":"Y'all ready to get this thing started? I'm your host Pretty and this is Sugardale's Next Top _.",
+            "pick":1
+        },
+        {
+            "text":"If you had to describe me, (the person reading), using only one of the cards in your hand, which one would it be?",
+            "pick":1
+        },
+        {
+            "text":"I may not be much to look at, but I fuck like _.",
+            "pick":1
+        },
+        {
+            "text":"Club Candee is closed indefinitely due to _.",
+            "pick":1
+        },
+        {
+            "text":"The top Google auto-complete results for \"Chad Vanderheim\": Chad Vanderheim Height. Chad Vanderheim net worth. Chad Vanderheim _.",
+            "pick":1
+        },
+        {
+            "text":"Take it from someone who's been around the block a few times. Nothin' puts Stalker-chan in the mood like _.",
+            "pick":1
+        },
+        {
+            "text":"Art isn't just a painting in a stuffy museum. Art is alive. Art is _.",
+            "pick":1
+        },
+        {
+            "text":"You won't believe what's in my pussy. It's _.",
+            "pick":1
+        },
+        {
+            "text":"Best way to spend your Saturday night: _ and _",
+            "pick":2
+        },
+        {
+            "text":"Pierce's latest PopMe: Feeling so grateful! #amazing #mylife #_.",
+            "pick":1
+        },
+        {
+            "text":"What's a total waste of Demi's time?",
+            "pick":1
+        },
+        {
+            "text":"My first day on campus went from _ to _ all thanks to _.",
+            "pick":3
+        },
+        {
+            "text":"The server would implode if _ happened.",
+            "pick":2
+        },
+        {
+            "text":"Girls just wanna have _.",
+            "pick":1
+        },
+        {
+            "text":"One more thing. Watch out for Jay. They say he killed a man with _.",
+            "pick":1
+        },
+        {
+            "text":"Bryce never understood _ until he encountered _.",
+            "pick":2
+        },
+        {
+            "text":"If at first you don't succeed, try _.",
+            "pick":1
+        },
+        {
+            "text":"What will stop MC's stalker once and for all?",
+            "pick":1
+        },
+        {
+            "text":"Stalker-chan's plan all started with _",
+            "pick":1
+        },
+        {
+            "text":"Well if _ is a crime, then take me to horny jail!",
+            "pick":1
+        },
+        {
+            "text":"If you see Bruno's ghost, you have to _, so he'll never haunt you again.",
+            "pick":1
+        },
+        {
+            "text":"What's Samir's guilty pleasure?",
+            "pick":1
+        },
+        {
+            "text":"Poor Gabe, he got trapped in the back room when he went back there to _.",
+            "pick":1
+        },
+        {
+            "text":"What totally destroyed my asshole?",
+            "pick":1
+        },
+        {
+            "text":"I don't believe in God. I believe in _.",
+            "pick":1
+        },
+        {
+            "text":"Then the princess kissed the frog, and all of a sudden the frog was _!",
+            "pick":1
+        },
+        {
+            "text":"I got rhythm, I've got music, I've got _. Who could ask for anything more?",
+            "pick":1
+        },
+        {
+            "text":"No, no, no, no, no, no, NO! I will NOT let _ ruin this wedding.",
+            "pick":1
+        },
+        {
+            "text":"Coming to Red Lobster this month, _.",
+            "pick":1
+        },
+        {
+            "text":"Ooo, daddy like _.",
+            "pick":1
+        },
+        {
+            "text":"Best you go back where you came from, now. We don't take too kindly to _ in this server.",
+            "pick":1
+        },
+        {
+            "text":"Summer lovin', had me a blast. _, happened so fast.",
+            "pick":1
+        },
+        {
+            "text":"LSD + _ = really bad time.",
+            "pick":1
+        },
+        {
+            "text":"_. The fastest way to Bernie's heart.",
+            "pick":1
+        },
+        {
+            "text":"I tell you, it was a non-stop fuckfest. When it was over, my asshole looked like _.",
+            "pick":1
+        },
+        {
+            "text":"What turned me into a Samir simp?",
+            "pick":1
+        },
+        {
+            "text":"I'm sorry, ma'am, but your insurance plan doesn't cover injuries caused by _.",
+            "pick":1
+        },
+        {
+            "text":"Run, run, as fast as you can! You can't catch me, I'm _!",
+            "pick":1
+        },
+        {
+            "text":"There is no God. It's just _ and then you die.",
+            "pick":1
+        },
+        {
+            "text":"She's just one of the guys, you know? She likes beer, and football, and _.",
+            "pick":1
+        },
+        {
+            "text":"This Friday at the the Syrup Pit, it's _ Night! Ladies drink free.",
+            "pick":1
+        },
+        {
+            "text":"What sucks balls?",
+            "pick":1
+        },
+        {
+            "text":"Oh no! Siri, how do I fix _?",
+            "pick":1
+        },
+        {
+            "text":"Dance like there's nobody watching, love like you'll never be hurt, and live like you're _.",
+            "pick":1
+        },
+        {
+            "text":"MC's to-do list: Buy Groceries, Clean up ___. Club meeting.",
+            "pick":1
+        },
+        {
+            "text":"Why am I laughing and crying and taking off my clothes?",
+            "pick":1
+        },
+        {
+            "text":"She's a lady in the streets, _ in the sheets.",
+            "pick":1
+        },
+        {
+            "text":"What's about to take dance floor to the next level?",
+            "pick":1
+        },
+        {
+            "text":"Sugardale Sentiniel breaking news! Scientists discover _.",
+            "pick":1
+        },
+        {
+            "text":"In a horror movie AU of College Craze, the first character to die meets their end thanks to _.",
+            "pick":1
+        },
+        {
+            "text":"Congratulations! You have been selected accepted to Sugardale U. While we are unable to offer a scholarship, we can offer you _.",
+            "pick":1
+        },
+        {
+            "text":"There are two types of people: those who admit they like _, and fucking liars.",
+            "pick":1
+        },
+        {
+            "text":"After blacking out at an Investment club party, I'm awaken by _.",
+            "pick":1
+        },
+        {
+            "text":"With a one-time donation of just $40,000, you can save MC from _.",
+            "pick":1
+        },
+        {
+            "text":"_ may pass, but _ is forever.",
+            "pick":2
+        }
+    ],
+    "whiteCards":[
+        "MC'S pregnancy scare.",
+        "Jay's dick",
+        "Autocannibalism.",
+        "Pebbled nipples.",
+        "Being pimped out to donors for tuition",
+        "Pictures of boobs.",
+        "Doing the right thing.",
+        "The violation of our most basic human rights.",
+        "Viagra.",
+        "Self-loathing.",
+        "Spectacular abs.",
+        "A balanced breakfast.",
+        "Spiritdust",
+        "Concealing a boner.",
+        "Bruno's corpse",
+        "MC's first day of college",
+        "Stalker-chan's vibrator.",
+        "Dr.Gray",
+        "Jace's cum",
+        "Being caught taking a nude in Dr.Gray's class",
+        "Cuddling.",
+        "Getting a foot massage from Grady",
+        "Dean Monroe",
+        "Professor McGregor.",
+        "Genital piercings.",
+        "Fingering.",
+        "A bleached asshole.",
+        "Plan C pills.",
+        "Fear itself.",
+        "Science.",
+        "Sugardaddies.",
+        "Stranger danger.",
+        "Stalker-chan",
+        "Pretending there isn't a stalker",
+        "Drunken dancefloor makeout session",
+        "Showering with the curtains open.",
+        "Copying answers from Ruby.",
+        "Grady's porn collection.",
+        "Binge drinking.",
+        "Making a pouty face.",
+        "Alan.",
+        "April",
+        "Gabe's band",
+        "Bernie",
+        "The investment club rejects.",
+        "Virgin MC",
+        "Chainsaws for hands.",
+        "Chad",
+        "An icepick lobotomy.",
+        "Bryce's parents",
+        "The Montegomery family estate",
+        "Dying.",
+        "Foreskin.",
+        "Bryce without his hat on.",
+        "Birth control pills",
+        "MC getting pregnant the first week of college.",
+        "Sexy pillow fights.",
+        "Pretty's mind.",
+        "Conveniently forgetting a condom. ",
+        "Courtney",
+        "Dean Monroe",
+        "The clitoris.",
+        "The right to remain silent",
+        "A sad handjob.",
+        "Men.",
+        "Sugardale University",
+        "A micropenis.",
+        "Courtney's taser.",
+        "Being pegged.",
+        "Demi.",
+        "Gabe.",
+        "Grady.",
+        "Jace.",
+        "Jay.",
+        "Luke.",
+        "Officer Arroyo.",
+        "Officer Helms.",
+        "Pierce.",
+        "Rafi.",
+        "Ruby.",
+        "Samir.",
+        "Shaun.",
+        "Thomas.",
+        "Triggs.",
+        "Pretending to care.",
+        "The real reason why Triggs is so paranoid.",
+        "My humps.",
+        "Being a dick to children.",
+        "The presidential ring.",
+        "Blackmail.",
+        "Smoking jadeleaf",
+        "Saccharine Summit",
+        "An Oedipus complex.",
+        "Eating all of the cookies before a fundraiser bake-sale.",
+        "Sexting.",
+        "Taking real cumshots",
+        "Fucking Blair in a public place.",
+        "Mutually-assured destruction.",
+        "Sunshine and rainbows.",
+        "Holy O's Donuts",
+        "Snowballing.",
+        "Being rich.",
+        "Ever-watchful",
+        "A sausage party.",
+        "MC's Dad",
+        "Emotions.",
+        "Farting and walking away.",
+        "Science Society",
+        "Necrophilia.",
+        "Spontaneous human combustion.",
+        "Yeast.",
+        "Leaving an awkward voicemail.",
+        "The Arroyo Family",
+        "That racist asshole outside of the Syrup Pit.",
+        "Penis envy.",
+        "Teaching a Thomas to love.",
+        "A cum dumpster",
+        "Scrubbing under the folds.",
+        "Being a Voyuer",
+        "Whipping it out.",
+        "Rosalie's boob job.",
+        "Masturbation.",
+        "Natural selection.",
+        "Opposable thumbs.",
+        "Blair",
+        "Getting shot by Jay",
+        "The Sugardale police station",
+        "Dining hall food.",
+        "Throwing a box at Bryce.",
+        "Rosalie's two demon-dogs.",
+        "Rafi's past bodies.",
+        "Ruby's pussy",
+        "Unaffordable condoms.",
+        "Being watched.",
+        "MC's first week at college.",
+        "A cup of tea from Jace.",
+        "Shaun's dad.",
+        "Friction.",
+        "Balls.",
+        "Dental dams.",
+        "A can of whoop-ass.",
+        "A tiny horse.",
+        "Waiting 'til marriage.",
+        "Authentic Mexican cuisine.",
+        "Lying about being a virgin.",
+        "Old-people smell.",
+        "Being a Femdom.",
+        "Pixelated bukkake.",
+        "Friends with benefits.",
+        "Blair ditching for dick. ",
+        "Gabe's leather",
+        "A thermonuclear detonation.",
+        "Take-backsies.",
+        "The Rapture.",
+        "A cooler full of organs.",
+        "Sweet, sweet vengeance.",
+        "Getting dicked down.",
+        "Bi Panic",
+        "Drinking alone.",
+        "Giving 110%.",
+        "Flesh-eating bacteria.",
+        "Thomas' bodycount",
+        "Taking off your shirt.",
+        "Me time.",
+        "A murder most foul.",
+        "The inevitable heat death of the universe.",
+        "Chad's rhythm.",
+        "That thing that electrocutes your abs.",
+        "Eating pussy",
+        "Fiery poops.",
+        "Poor people.",
+        "Edible underpants.",
+        "Trish at 55.",
+        "All-you-can-eat shrimp for $4.99.",
+        "Anal fisting.",
+        "Being a voyuer",
+        "Stealing Rafi from Blair.",
+        "Being a motherfucking sorcerer.",
+        "Pulling out.",
+        "Kissing Bryce's feet.",
+        "Jay's hoodie",
+        "Stalker-chan's plan to stalk MC",
+        "Passive-agression.",
+        "Sugardale Donors.",
+        "Vehicular manslaughter.",
+        "Endless Orgasms",
+        "Assless chaps.",
+        "Full frontal nudity.",
+        "MC's tits",
+        "Daddy issues.",
+        "Ruby's camshows.",
+        "Fucking Samir.",
+        "Waking up half-naked in a Denny's parking lot.",
+        "God.",
+        "Bruno.",
+        "Saxophone solos.",
+        "Gloryholes.",
+        "The monster-cock Jay agenda.",
+        "Running out of money",
+        "Scalping.",
+        "Phone sex with a stalker",
+        "Eating the last known bison.",
+        "Guys who don't call.",
+        "Hot Pockets.",
+        "A time travel paradox.",
+        "The milk man.",
+        "Testicular torsion.",
+        "Dropping a chandelier on your enemies and riding the rope up.",
+        "World peace.",
+        "A salty surprise.",
+        "Being double-teamed by Bryce and Chad.",
+        "Hidden spy cameras.",
+        "Licking things to claim them as your own.",
+        "The heart of a child.",
+        "Watching Trish in her sleep",
+        "Lockjaw.",
+        "Creampies.",
+        "A good sniff.",
+        "Friendly fire.",
+        "The taint; the grundle; the fleshy fun-bridge.",
+        "Wearing underwear inside-out to avoid doing laundry.",
+        "Hiding under Helms' desk.",
+        "Free samples.",
+        "Jerking off in the library.",
+        "A foul mouth.",
+        "The glass ceiling.",
+        "College Craze Fanfics.",
+        "Explosions.",
+        "April's hugs.",
+        "Getting really high.",
+        "Attitude.",
+        "Rafi's spiraling sense of self-loathing and dread.",
+        "A threesome on a club balcony",
+        "Leaked nudes",
+        "My soul.",
+        "My sex life.",
+        "Officer Helms' shaky sense of morality.",
+        "Virgins.",
+        "Blair and Gabe's relationship.",
+        "Unenthusiastic blowjobs.",
+        "A snapping turtle biting the tip of your penis.",
+        "The Blood of Christ.",
+        "Half-assed foreplay.",
+        "My collection of high-tech sex toys.",
+        "Dean Monroe man on roller skates.",
+        "Bitches.",
+        "Blair's Gaslighting",
+        "Orgasm denial.",
+        "Jay's other body count.",
+        "Adderall.",
+        "Crippling debt.",
+        "A stray pube.",
+        "Prancing.",
+        "Passing a kidney stone.",
+        "A brain tumor.",
+        "Showing up to college with 50 bucks.",
+        "Puppies!",
+        "Bees?",
+        "Frolicking.",
+        "Depression.",
+        "Road head.",
+        "A bag of magic beans.",
+        "An asymmetric boob job.",
+        "Dead parents.",
+        "Public ridicule.",
+        "A mating display.",
+        "A mime having a stroke.",
+        "Thomas talking dirty.",
+        "Dean Monroe's children",
+        "Warts.",
+        "Overcompensation.",
+        "Riding off into the sunset.",
+        "Being on fire.",
+        "Tangled earphones.",
+        "Giving Rafi dating advice.",
+        "Demi's tongue.",
+        "My genitals.",
+        "Not reciprocating oral sex.",
+        "Lactation.",
+        "Being fabulous.",
+        "Pierce's Vidtok career.",
+        "My relationship status.",
+        "Julie.",
+        "Alcoholism.",
+        "A breeding kink.",
+        "Grave robbing.",
+        "Hope.",
+        "Doing a cam show.",
+        "Getting dicked down in a shower.",
+        "Winking at old people.",
+        "The Montegomerys",
+        "Gabe's tattoos",
+        "Doin' it in the butt.",
+        "A lifetime of sadness.",
+        "The Hamburglar.",
+        "Swooping.",
+        "Classist undertones.",
+        "Going Commando",
+        "Getting lost in Toffee Springs",
+        "Jay's kisses",
+        "A hot mess.",
+        "Tentacle porn.",
+        "Lumberjack fantasies.",
+        "A LGBTQ Moment.",
+        "Sugardale being a cult",
+        "Estrogen.",
+        "GoGurt.",
+        "Demon Dick",
+        "Dick fingers.",
+        "Being tied up.",
+        "Surprise sex!",
+        "Police brutality.",
+        "Being dommed by Dr.Gray",
+        "The Virginia Tech Massacre.",
+        "When you fart and a little bit comes out.",
+        "Courtney's God complex.",
+        "Carrying Rafi's child.",
+        "Anime tiddies.",
+        "Tasteful sideboob.",
+        "Hot people.",
+        "Running from your problems.",
+        "Unironic Luke simps.",
+        "A gassy Jay.",
+        "Sexual tension.",
+        "Third base.",
+        "Failing the SAT",
+        "Porn stars.",
+        "A Super Soaker full of cat pee.",
+        "Sugardale Townies",
+        "Puberty.",
+        "A disappointing birthday party.",
+        "An erection that lasts longer than four hours.",
+        "Bryce's Privalege",
+        "Getting so angry that you pop a boner.",
+        "Wifely duties.",
+        "Omegaverse AU.",
+        "Queefing.",
+        "Wiping her butt.",
+        "Golden showers.",
+        "Getting thrown in horny jail",
+        "Unapologetic Bryce Stans.",
+        "An accidental threesome with Triggs and Ruby.",
+        "A plot twist.",
+        "Getting drunk on mouthwash.",
+        "Lunchables.",
+        "Women in yogurt commercials.",
+        "Bruno's murderer",
+        "Powerful thighs.",
+        "Professor McGregor, standing right behind you.",
+        "Multiple stab wounds.",
+        "W.A.P.",
+        "Not peeing after sex.",
+        "Getting kicked out after sex.",
+        "Every woman Bryce has ever slept with.",
+        "Shaun on a leash.",
+        "TriggsxJay fanfics.",
+        "Blair's Bi-awakening.",
+        "Chad's balls.",
+        "Blair's Murder wall.",
+        "Stolen science voting ballots.",
+        "Trigg's car.",
+        "The end of the world as we know it.",
+        "AXE Body Spray.",
+        "Centaurs.",
+        "Copping a feel.",
+        "Grandma.",
+        "Famine.",
+        "The Bitterby Foundation",
+        "The miracle of childbirth.",
+        "Finger painting.",
+        "A monkey smoking a cigar.",
+        "Squirting.",
+        "Anal beads.",
+        "Snitching on Jay.",
+        "Crushing the souls of weaker men.",
+        "Dry heaving.",
+        "Active listening.",
+        "Ghosts.",
+        "The Hustle.",
+        "Peeing a little bit.",
+        "Blair ghosting.",
+        "Shapeshifters.",
+        "Triggs' crippling paranoia",
+        "Hot cheese.",
+        "A mopey zoo lion.",
+        "A defective condom.",
+        "Teenage pregnancy.",
+        "A Bop It.",
+        "Expecting a burp and vomiting on the floor.",
+        "Horrifying laser hair removal accidents.",
+        "Boogers.",
+        "Unfathomable stupidity.",
+        "Breaking out into song and dance.",
+        "Soup that is too hot.",
+        "Stalker-chan's voice.",
+        "Getting naked and watching movies together.",
+        "Paying a dollar to give a blowjob.",
+        "Flying sex snakes.",
+        "The true meaning of Christmas.",
+        "My inner demons.",
+        "Uncontrollably guzzling cum.",
+        "My vagina.",
+        "A homoerotic volleyball montage.",
+        "Actually taking candy from a baby.",
+        "The Sugarman's fleet of soccer mom vehicles.",
+        "Exactly what you'd expect.",
+        "Natural male enhancement.",
+        "Passive-aggressive Post-it notes.",
+        "Inappropriate yodeling.",
+        "Getting groped at your job interview",
+        "The Little Engine That Could.",
+        "Vigilante justice.",
+        "A death ray.",
+        "Poor life choices.",
+        "A gentle caress of the inner thigh.",
+        "Jace calling you 'babe'.",
+        "Sugardale's drug problem.",
+        "MC's stupidity.",
+        "Dropping out.",
+        "The chronic.",
+        "Erectile dysfunction.",
+        "Home video of Grady sobbing into a Lean Cuisine.",
+        "A bucket of fish heads.",
+        "50,000 volts straight to the nipples.",
+        "Listening to Bryce and Trish fuck.",
+        "Hospice care.",
+        "A pyramid of severed heads.",
+        "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.",
+        "Blair's uncontrollable thrist for revenge.",
+        "Crucifixion.",
+        "A micropig wearing a tiny raincoat and booties.",
+        "Some god-damn peace and quiet.",
+        "Used panties.",
+        "A tribe of warrior women.",
+        "The penny whistle solo from \"My Heart Will Go On.\"",
+        "An oversized lollipop.",
+        "Helplessly giggling at the mention of Grady's foot fetish.",
+        "Not wearing pants.",
+        "Consensual sex.",
+        "Pretty Ink.",
+        "Funky fresh rhymes.",
+        "The art of seduction.",
+        "The Devil himself.",
+        "Advice from Triggs.",
+        "Destroying the evidence.",
+        "The light of a billion suns.",
+        "Wet dreams.",
+        "Gabe's interviewing skills.",
+        "Growing a pair.",
+        "Silence.",
+        "Running away from Professor McGregor.",
+        "Poopy diapers.",
+        "A live studio audience.",
+        "A romantic stroll",
+        "A spastic nerd.",
+        "Going on a condom run with Jace.",
+        "Tickling Dean Monroe, even after he tells you to stop.",
+        "Gabe's pierced dick.",
+        "Ruined orgasms",
+        "Rehab.",
+        "Capturing Bernie and forcing him to dance in a monkey suit.",
+        "A thousand unsolicited thirsty comments.",
+        "An uppercut.",
+        "Shiny objects.",
+        "An ugly face.",
+        "Menstrual rage.",
+        "A bitch slap.",
+        "One trillion dollars.",
+        "Boogers",
+        "MC's conception",
+        "The female orgasm.",
+        "Extremely tight pants.",
+        "Dating Gabe.",
+        "Feet.",
+        "Throwing a virgin into a volcano.",
+        "24-hour media coverage",
+        "A beached whale.",
+        "A really really big dick.",
+        "Knotting.",
+        "A ripped condom.",
+        "A bald man from the internet.",
+        "A low standard of living.",
+        "A nuanced critique.",
+        "A panty raid.",
+        "A passionate lover.",
+        "A plunger to the face.",
+        "A rival college.",
+        "A college diversity photo.",
+        "A web of lies.",
+        "A woman scorned.",
+        "An atomic wedgie.",
+        "An Etsy steampunk strap-on.",
+        "An evil man in evil clothes.",
+        "An enormous, leathery scrotum.",
+        "Apologizing.",
+        "Appreciative snapping.",
+        "Starring in a viral Vidtok.",
+        "Beating Thomas in a dance battle..",
+        "Being a busy adult with many important things to do.",
+        "Being a dinosaur.",
+        "Being exploited.",
+        "Chicken farmers.",
+        "Having a nip slip.",
+        "Carnies.",
+        "Clams.",
+        "Clenched butt cheeks.",
+        "Coughing into a vagina.",
+        "A really really bad haircut.",
+        "Dancing with a broom.",
+        "Deflowering MC.",
+        "Deflowering the Triggs.",
+        "Dorito breath.",
+        "Eating April out.",
+        "Enormous boobies.",
+        "Fabricating statistics.",
+        "Finding a skeleton.",
+        "Growing up way too fast.",
+        "Genetically engineered super-soldiers.",
+        "Grady's musk.",
+        "Getting abducted by Dr.Gray.",
+        "Getting in her pants, politely.",
+        "A fight to the death.",
+        "Good grammar.",
+        "Having a penis",
+        "Hipsters.",
+        "Not remembering MC's name.",
+        "Insatiable bloodlust.",
+        "Being a throuple with Bryce and Trish",
+        "Being a throuple with Blair and Gabe.",
+        "Maldaptive Day-dreaming.",
+        "Just the tip.",
+        "Leveling up.",
+        "Literally eating shit.",
+        "Mad hacky-sack skills.",
+        "Making the penises kiss.",
+        "Media coverage.",
+        "Medieval Times Dinner & Tournament.",
+        "Mom.",
+        "Moral ambiguity.",
+        "My machete.",
+        "Simping for stalker-chan.",
+        "NOOOOOOOOO!!!",
+        "Ruby simps.",
+        "Ominous background music.",
+        "One thousand dildos.",
+        "Overpowering your father.",
+        "Panty raids.",
+        "Pistol-whipping a hostage.",
+        "Quiche.",
+        "Quivering thighs.",
+        "Revenge fucking.",
+        "Ripping into Bryce's chest and pulling out his still-beating heart.",
+        "Jay riding in on a white horse.",
+        "Salvia.",
+        "Sanding off a man's nose.",
+        "Santa Claus.",
+        "Savagely beating a mascot",
+        "Scrotum tickling.",
+        "Sexual humiliation.",
+        "Sexy twins.",
+        "Shaft.",
+        "Slow motion.",
+        "Space muffins.",
+        "Going into heat.",
+        "Stockholm syndrome",
+        "Sudden Poop Explosion Disease.",
+        "Homicidal thoughts.",
+        "Being in a rut.",
+        "Hiding random boners.",
+        "The economy.",
+        "The entire Sugardale U Endowment",
+        "Degradation kink.",
+        "A chastity belt.",
+        "The harsh light of day.",
+        "The hiccups.",
+        "The ooze",
+        "Jay's last girlfriend.",
+        "This guy!",
+        "Tripping balls.",
+        "Walking in on Trish touching herself.",
+        "Words, words, words.",
+        "Bryce's sexual appetites.",
+        "A 55-gallon drum of lube.",
+        "A bigger, thicker dick.",
+        "A tiger pit.",
+        "A dollop of sour cream.",
+        "A fortuitous turnip harvest.",
+        "A magic hippie love cloud.",
+        "Rafi in yoga pants with a ponytail and feather earrings.",
+        "A pinata full of scorpions",
+        "A sad dragon with no friends.",
+        "A slightly shittier parallel universe.",
+        "A sofa that says \"I have style, but I like to be comfortable.\"",
+        "A soulful rendition of \"Ol' Man River.\"",
+        "A squadron of moles wearing aviator goggles.",
+        "A sweaty, panting leather daddy.",
+        "A sweet spaceship.",
+        "All of this blood.",
+        "An army of skeletons.",
+        "An cum-soaked rag.",
+        "An unhinged ferris wheel rolling toward the sea.",
+        "Another cumshot.",
+        "Basic human decency.",
+        "Beefin' over turf.",
+        "Being awesome at sex.",
+        "The Birdman meme.",
+        "Bullshit.",
+        "Catastrophic urethral trauma.",
+        "Crushing Courtney's brittle body.",
+        "Daddy's belt.",
+        "Death by orgasm.",
+        "Stealing Trish's clothes.",
+        "Dining with cardboard cutouts of the cast of \"College Craze.\"",
+        "Double penetration.",
+        "Existing.",
+        "Being too drunk to function.",
+        "Finding Stalker-chan.",
+        "Fuck Mountain.",
+        "Getting gang-banged by the Arroyo family.",
+        "Bruno's ashes.",
+        "Graphic violence, adult language, and some sexual content.",
+        "Demi's death stare.",
+        "Intimacy problems.",
+        "Jay simps.",
+        "Living in a trashcan.",
+        "Officer Helm's wife.",
+        "Making a friend.",
+        "Maximal insertion.",
+        "Me.",
+        "Mild BDSM",
+        "Mooing.",
+        "My first kill.",
+        "Nunchuck moves.",
+        "Oncoming traffic.",
+        "Trigg's government name.",
+        "Power.",
+        "Pretty Pretty Princess Board Game.",
+        "Pumping out a baby every nine months.",
+        "Rising from the grave.",
+        "Scrotal frostbite.",
+        "Some really fucked-up shit.",
+        "Special musical guest, Gabe.",
+        "Spring break!",
+        "Subduing a grizzly bear and making her your wife.",
+        "Survivor's guilt.",
+        "Swiftly achieving orgasm.",
+        "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+        "The storage closet at Sweetbean Cafe.",
+        "The family blood fued.",
+        "The day the birds attacked.",
+        "The Google.",
+        "A bottle of vodka.",
+        "The human body.",
+        "The mere concept of Applebee's.",
+        "Being gagged by Dr.Gray",
+        "Not knowing how to suck a dick.",
+        "Tiny nipples.",
+        "Tongue.",
+        "Creating Change.org petitions.",
+        "Weapons-grade plutonium.",
+        "Wearing an octopus for a hat.",
+        "Whining like a little bitch.",
+        "Whipping a disobedient brat.",
+        "That ass.",
+        "Nothing.",
+        "Shutting the fuck up.",
+        "The primal, ball-slapping Blair and Gabe are having right now.",
+        "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+        "Cock.",
+        "A cop who is also a dog.",
+        "Dying alone and in pain.",
+        "Gay aliens.",
+        "Tucking Samir in and kissing him goodnight.",
+        "Reverse cowgirl.",
+        "An abysmally low GPA.",
+        "Actually getting shot, for real.",
+        "Not having sex.",
+        "Investment Initiation flashbacks.",
+        "Running naked through a Honeywood, pissing and shitting everywhere.",
+        "Messy sex.",
+        "Punching yourself in the face.",
+        "The systematic destruction of an entire people and their way of life.",
+        "Getting yelled at by Gabe.",
+        "A boo-boo.",
+        "Going around punching people.",
+        "The entire Internet.",
+        "Some kind of bird-man.",
+        "Chugging a lava lamp.",
+        "Having sex on top of a pizza.",
+        "Indescribable loneliness.",
+        "An ass disaster.",
+        "All my friends dying.",
+        "Putting an entire peanut butter and jelly sandwich into the VCR.",
+        "Spending lots of money.",
+        "Some douche with an acoustic guitar.",
+        "Flying robots that kill people.",
+        "A greased-up Dean Monroe.",
+        "An unstoppable wave of fire ants.",
+        "Not contributing to society in any meaningful way.",
+        "Ruby's one-woman production of Shakespeare's Richard III.",
+        "Screaming like a maniac.",
+        "The moist, demanding chasm of his mouth.",
+        "Filling every orifice with butterscotch pudding.",
+        "Unlimited soup, salad, and breadsticks.",
+        "Crying into the pages of Sylvia Plath.",
+        "Velcro.",
+        "A PowerPoint presentation.",
+        "A surprising amount of hair.",
+        "Eating Grady's mustache to gain his powers.",
+        "Discovering you have a farting kink.",
+        "A pile of squirming bodies.",
+        "Buying the right pants to be, cool.",
+        "Putting Professor McGregor in his place.",
+        "Three months in the hole.",
+        "A botched circumcision.",
+        "The Land of Chocolate.",
+        "Punching a racist old man.",
+        "A snake swimming up the toilet and latching onto your butt.",
+        "Jumping out at people.",
+        "A suspicious person in Toffee Springs, last seen wearing a hoodie.",
+        "Bruno's death scene.",
+        "Triggs, naked on a bearskin rug with a saxophone.",
+        "Demonic possession.",
+        "Bernie and Grady joining the Harlem Globetrotters.",
+        "Vomiting mid-blowjob.",
+        "My manservant, Shaun.",
+        "Having shotguns for legs.",
+        "Letting everyone down.",
+        "A spontaneous conga line.",
+        "A vagina that leads to another dimension.",
+        "Disco fever.",
+        "Getting your dick stuck in a Chinese finger trap with another dick.",
+        "Fisting.",
+        "The thin veneer of situational causality that underlies porn.",
+        "Girls that always be textin'.",
+        "Blowing some dudes in an alley.",
+        "Drinking ten 5-hour ENERGYs to get fifty continuous hours of energy.",
+        "Sneezing, farting, and coming at the same time.",
+        "A bunch of simps playing a card game instead of interacting like normal humans.",
+        "A sex goblin with a carnival penis.",
+        "Lots and lots of cum.",
+        "Getting railed by Dean Monroe, Professor McGregor and Dr.Gray on campus grounds.",
+        "Sharks with legs.",
+        "A sex comet from Neptune that plunges the Earth into eternal sexiness.",
+        "How awesome I am.",
+        "Railing Spirit Dust, for instance.",
+        "A dance move that's just sex.",
+        "A hopeless amount of spiders.",
+        "Drinking responsibly.",
+        "Breaking up with Jay for Samir.",
+        "Bouncing up and down.",
+        "A shiny rock that proves I love you.",
+        "Crazy eyes.",
+        "Moderate-to-severe joint pain.",
+        "Actual mutants with medical conditions and no superpowers.",
+        "Courtney working 8 jobs.",
+        "Finally getting pegged.",
+        "Being THAT person.",
+        "No clothes on, penis in vagina.",
+        "Whispering all sexy.",
+        "A horse with no legs.",
+        "Depression.",
+        "Almost giving money to Jace.",
+        "Interspecies marriage.",
+        "Vampire AU College Craze",
+        "What Ruby would do.",
+        "A manhole.",
+        "My dad's dumb fucking face.",
+        "A Toffee Springs druglord.",
+        "My worthless son.",
+        "An MC who solves crimes by going into the spirit world.",
+        "A kiss on the lips.",
+        "A fart.",
+        "The strange and unsuspecting increase of Samir simps in the server.",
+        "Snorting spirit dust off Chad's boner.",
+        "Three consecutive seconds of happiness.",
+        "Falling into the toilet.",
+        "Ass to mouth.",
+        "Some sort of sex position.",
+        "The size of my penis.",
+        "The safe word.",
+        "Party Hats.",
+        "Ambiguous sarcasm.",
+        "Breast milk.",
+        "Face sitting",
+        "Incredible Facts About the Anus.",
+        "The secret formula for ultimate female satisfaction.",
+        "Sugar madness.",
+        "Calculating every mannerism so as not to suggest homosexuality.",
+        "Fucking a corpse back to life.",
+        "All the single ladies.",
+        "Whatever a McRib is made of.",
+        "Demi's schedule.",
+        "The euphoric rush of strangling Blair.",
+        "Khakis.",
+        "A sexual attraction that can only be conveyed through slam poetry.",
+        "The ass man",
+        "A for-real lizard that spits blood from its eyes.",
+        "The tiniest shred of evidence that Stalker-chan is really Pretty Ink.",
+        "Tinfoil hats.",
+        "Dem titties.",
+        "Exploding pigeons.",
+        "My sex dungeon.",
+        "A long, messy divorce.",
+        "40 years in horny jail.",
+        "Sports.",
+        "Unquestioning obedience.",
+        "The reason why Jay won't dick MC down.",
+        "The will to live.",
+        "A crazy little thing called love.",
+        "A disappointing salad.",
+        "A face full of Demi's cum.",
+        "A giant powdery manbaby.",
+        "A mouthful of potato salad.",
+        "A one-way ticket to Bitterby.",
+        "Dubious Consent.",
+        "A reason not to drop-kick my roommate.",
+        "A team of lawyers.",
+        "A whole new kind of porn.",
+        "A zero-risk way to make $2,000 from home.",
+        "Dancing monkeys.",
+        "All these decorative pillows.",
+        "An unforgettable quinceanera.",
+        "An uninterrupted history of imperialism and exploitation.",
+        "Anal fissures like you wouldn't believe.",
+        "Twilight x College Craze crossover.",
+        "Backwards knees.",
+        "Being nine years old.",
+        "Being blindfolded.",
+        "Being worshiped as the one true God.",
+        "Blackface.",
+        "Blowjobs for everyone.",
+        "Boring Vaginal sex.",
+        "Butt stuff.",
+        "Changing a person's mind with logic and facts.",
+        "Child support payments.",
+        "Daddy's credit card.",
+        "Deez nuts.",
+        "Doing the right stuff to her nipples.",
+        "Ejaculating live bees and the bees are angry.",
+        "A really bad trip.",
+        "Figuring out how to have sex with Thomas.",
+        "Free ice cream, yo.",
+        "Blair's DNA.",
+        "Getting caught by the Officer Helms and going to jail.",
+        "Getting drive-by shot by Triggs and Jay.",
+        "Getting tortured by Courtney.",
+        "Giant sperm from outer space.",
+        "Going to a college reunion on Spirit dust.",
+        "Having been dead a while.",
+        "Dad's new wife.",
+        "My boyfriends stupid penis.",
+        "Blair's poinytail.",
+        "My first period.",
+        "Not believing in giraffes.",
+        "Oil!",
+        "Out-of-this-world bazongas.",
+        "Dr.Crave himself.",
+        "Seeing my city burned and my family slaughtered before my eyes.",
+        "Seeing things from Samir's perspective.",
+        "Slowly easing down onto a cucumber.",
+        "Jay and Triggs with flamethrowers of compassion.",
+        "Some shit-hot guitar licks.",
+        "The Honeywood lifestyle.",
+        "The basic suffering that pervades all of existence.",
+        "The mysterious beings who dictate the rules of fashion.",
+        "The ghost of MC's mom.",
+        "The inability to form meaningful relationships.",
+        "The passage of time.",
+        "The soccer team, all at once.",
+        "The tiger that killed my father.",
+        "The unbelievable world of mushrooms.",
+        "The sweet side of Blair.",
+        "The shitty side of Blair.",
+        "Too much Spirit Dust.",
+        "Unrelenting genital punishment.",
+        "Vegetarian options.",
+        "Wearing glasses and sounding smart.",
+        "Western standards of beauty.",
+        "A bass drop so huge it tears the starry vault asunder to reveal the face of God.",
+        "Growing up chained to a radiator in perpetual darkness.",
+        "Begging on their knees like a bad, bad girl.",
+        "A buttload of candy.",
+        "Sucking all the milk out of a yak.",
+        "Bullets.",
+        "A man who is so cool that he rides on a motorcycle.",
+        "Sudden penis loss.",
+        "Getting all offended.",
+        "Crying and shitting and eating spaghetti.",
+        "One unforgettable night of passion.",
+        "Being popular and good at sports.",
+        "Filling a man's anus with concrete.",
+        "Chad and Bryce fucking the shit out of each other.",
+        "Cool, relatable teens.",
+        "The amount of gay I am.",
+        "A possible Arroyo family member.",
+        "Unsheathing my massive cock.",
+        "A bowl of gourds.",
+        "The male gaze.",
+        "The power of the Jay's dick.",
+        "Ripping MC in half.",
+        "A constant need for validation.",
+        "Meaningless sex.",
+        "Such a big boy.",
+        "Throwing stones at a Luke until he dies.",
+        "Pierce breaking up with you.",
+        "Like, a million alligators.",
+        "Eating together like a god damn family for once.",
+        "Cute boys.",
+        "Pussy.",
+        "Being a terrible mother.",
+        "Never having sex again.",
+        "A pizza guy who fucked up.",
+        "A whole lotta woman.",
+        "The all-new Nissan Pathfinder with 0.9% APR financing!",
+        "A peyote-fueled vision quest.",
+        "Kale.",
+        "Breastfeeding a ten year old.",
+        "Crippling social anxiety.",
+        "Immortality cream.",
+        "Texas.",
+        "Teaching a girl how to handjob the penis.",
+        "A turd.",
+        "Shapes and colors.",
+        "Whatever you wish, mother.",
+        "The haunting stare of a guilty Joe Helms.",
+        "Robots who just want to party.",
+        "A self-microwaving burrito.",
+        "Forgetting Samir's first name.",
+        "Too busy getting railed.",
+        "Treasures beyond your wildest dreams.",
+        "Getting shot out of a cannon.",
+        "The sweet song of sword against sword and the braying of mighty war beasts.",
+        "Walking into a glass door.",
+        "The color \"puce.\"",
+        "Every ounce of charisma left in Chad's body.",
+        "The sophomores.",
+        "Setting my balls on fire and cartwheeling to Bitterby.",
+        "The dentist.",
+        "Rafi's opinions.",
+        "Rabies.",
+        "Important news about Officer Arroyo.",
+        "Ejaculating inside another man's wife.",
+        "Owls, the perfect predator.",
+        "Bathing in moonsblood and dancing around the ancient oak.",
+        "An oppressed people with a vibrant culture.",
+        "An overwhelming variety of cheeses.",
+        "Reading the entire End-User License Agreement.",
+        "Peeing into a girl's butt to make a baby.",
+        "Generally having no idea what's going on.",
+        "No longer finding any Cards Against Humanity card funny.",
+        "Content.",
+        "Fucking me good and taking me to Red Lobster.",
+        "Self-identifying as a DJ.",
+        "Getting high with mom.",
+        "Beyonce.",
+        "Gazpacho.",
+        "Discovering that what I really want in life is to kill people and have sex with their parents.",
+        "A man with the head of a goat and the body of a goat.",
+        "How good lead paint tastes.",
+        "Dropping dead in a Sweetbean's backroom and not being found for 72 hours.",
+        "Eating too many Holy O's Donuts and then vomiting.",
+        "Some of that good dick.",
+        "Two shitty kids and a garbage husband.",
+        "Pooping in the potty.",
+        "Bad emotions I don't want.",
+        "Mixing M&Ms and Skittles like some kind of psychopath.",
+        "Fucking my therapist.",
+        "The best, deepest quotes College Craze.",
+        "Meatloaf, the man.",
+        "Meatloaf, the food.",
+        "My huge penis and substantial fortune.",
+        "Hot lettuce.",
+        "It being too late to stop having sex with your best friend's ex.",
+        "Becoming the Dean of Sugardale U.",
+        "Microaggressions.",
+        "Getting the Dorito crumbs out of my purse.",
+        "Grunting for ten minutes and then peeing sand.",
+        "Prematurely ejaculating and crying afterwards.",
+        "Jazz.",
+        "Straight blazin' 24/7.",
+        "Having sex with a beautiful person.",
+        "Going around pulling people's tampons out.",
+        "Reaching an age where barbecue chips are better than sex.",
+        "Daddy going away forever.",
+        "Three hours of nonstop penetration.",
+        "Scissoring.",
+        "Creamy slices of real, California avocado.",
+        "Catching Bryce dancing in his underwear.",
+        "A weird guy who says weird stuff and weirds me out.",
+        "Rubbing my bush all over your bald head.",
+        "Farting too loudly in an elevator with Jay.",
+        "Quinoa.",
+        "A cheerfulness that belies a deep-seated self-loathing.",
+        "Queefing.",
+        "Defeating a gorilla in single combat.",
+        "A big ol' plate of fettuccine alfredo.",
+        "Brunch.",
+        "Anal.",
+        "A women's perspective.",
+        "A long business meeting with no obvious purpose.",
+        "Thinking about what eating even is.",
+        "Doing a somersault and barfing.",
+        "Trees.",
+        "Hating the Arroyos.",
+        "Whooping your ass at Mario Kart.",
+        "A massive collection of foot porn.",
+        "Systems and policies designed to preserve centuries-old power structures.",
+        "Bullying Professor McGregor till he cries.",
+        "Muchin' puss.",
+        "Moon people.",
+        "Picking up a glass of water and taking a sip and being the president.",
+        "Critical thinking.",
+        "Showing all the boys my pussy.",
+        "Homework.",
+        "Saccharine Summit",
+        "Putting more people in jail for Courtney to play with.",
+        "The ol' penis-in-the-popcorn surprise.",
+        "One of them big-city lawyers.",
+        "Informing you that I am a sexual deviant and will never let you forget it.",
+        "Rolling so hard.",
+        "Who really shot Bruno.",
+        "Being turned into sausages.",
+        "Eating ass.",
+        "A dolphin that learns to talk and becomes the Dean of Sugardale U.",
+        "LGBTQ+ thoughts.",
+        "Dominating a man by peeing on his eldest son.",
+        "This bitch.",
+        "A strong horse and enough rations for thirty days.",
+        "Feminism.",
+        "A cold and indifferent universe.",
+        "An incurable Jace simp.",
+        "The amount of baby carrots I can fit up my ass.",
+        "Huge balls full of confetti.",
+        "Thomas, my favorite son.",
+        "April, my favorite daughter.",
+        "Jace, the world's greatest boyfriend.",
+        "Pierce, the teen mayor.",
+        "That bitch, Trish.",
+        "MC's body count at the end of the first semester.",
+        "A look of disappointment from Dean Monroe.",
+        "Just now finding out Jay is a drugdealer",
+        "Opening your mouth to talk and a big penis fops out.",
+        "Twisting his cock and balls into a balloon poodle.",
+        "The wind.",
+        "A gun that shoots cobras.",
+        "Out-of-control blowjob parties.",
+        "The dumb friend.",
+        "The body of a 46-year-old man.",
+        "Art.",
+        "Water.",
+        "Doritos and a Fruit Roll-Up.",
+        "Sucking each other's penises for hours on end.",
+        "10,000 shrieking teenage girls.",
+        "Whomsoever let the dogs out.",
+        "The chicken from Popeyes.",
+        "Assassinating the president.",
+        "Having sex with a man and then eating his head.",
+        "A burrito that's just sour cream.",
+        "An arrangement wherein I give a person money they have sex with me.",
+        "Facilitating dialogue and deconstructing binaries.",
+        "Taking the form of a falcon.",
+        "Watching you die.",
+        "Turning into a poptart for the entire cast of College Craze",
+        "Loud, scary thunder.",
+        "Every man's ultimate fantasy: a perfectly cylindrical vagina.",
+        "Cockwarming.",
+        "Math.",
+        "Founding a major world religion.",
+        "Plowing that ass like a New England corn farmer.",
+        "A blind date between Triggs and Rafi.",
+        "The feeling of going to McDonald's as a 6-year-old.",
+        "Misogyny.",
+        "Tables.",
+        "Feeling the emotion of anger.",
+        "One of those \"blow jobs\" I've been hearing so much about.",
+        "April singing a nursery rhyme.",
+        "Blossoming into a beautiful young woman.",
+        "The secret to truly resilient hair.",
+        "Rock-hard tits and a huge vagina.",
+        "The femdom agenda",
+        "Mental illness.",
+        "Getting eaten out in a bathrrom stall.",
+        "10 football players with erections barreling towards you at full speed.",
+        "Starting a shitty podcast.",
+        "Overthrowing the Thomas from his presidency.",
+        "Fingerguns.",
+        "A hug.",
+        "Ass worship.",
+        "Crazy anal orgasms.",
+        "Getting this party started!",
+        "Being attracted to Bernie.",
+        "Antidepressants.",
+        "Getting trapped in an argument with Trish and Blair.",
+        "Swearing praise upon MC's body.",
+        "Turning 32.",
+        "Sudden and unwanted slam poetry.",
+        "A negative body image that is totally justified.",
+        "Exploring each other's buttholes.",
+        "You.",
+        "Quacking like a duck in lieu of a cogent argument.",
+        "Catching a live salmon in your mouth.",
+        "Eating people.",
+        "Our baby.",
+        "Breastfeeding in public like a radiant earth goddess.",
+        "Big, smart money boys tap-tapping on their keyboards.",
+        "Finding a nice elevator to poop in.",
+        "The mysterious fog rolling into town.",
+        "Two beautiful sisters.",
+        "Ruby's nip nops",
+        "The full force of Jay's anger.",
+        "A woman's right to choose.",
+        "A terrified MC who won't come out of the bushes.",
+        "A medium-sized horchata.",
+        "How great my ass looks in these jeans.",
+        "Raising three kids on minimum wage.",
+        "The bond between a woman and her vibrator",
+        "Slamming a dunk.",
+        "Ejaculating at the apex of a cartwheel.",
+        "Child labor.",
+        "An older man.",
+        "Crushing the patriarchy.",
+        "Denying your attraction to Luke.",
+        "Falling into a pit of waffles.",
+        "Objectifying women.",
+        "Everything.",
+        "A creature made of penises that must constantly arouse itself to survive.",
+        "Getting blasted in the face by a t-shirt cannon.",
+        "Onions.",
+        "Dumpster juice.",
+        "Forty-five minutes of finger blasting.",
+        "Film roles for actresses over 40.",
+        "Having sex with stalker-chan.",
+        "Having a vagina.",
+        "The hottest MILF in Sugardale.",
+        "Some real spicy shrimps.",
+        "The College Craze server.",
+        "Twenty bucks.",
+        "The full blown marginalization of Gabe simps.",
+        "A finger up the butt.",
+        "A big, beautiful mouth packed to the brim with sparkling teeth.",
+        "Getting laid like all the time.",
+        "Happy daddies with happy sandals.",
+        "People who genuinely dislike Ruby.",
+        "Late-stage dementia.",
+        "How strange it is to be anything at all.",
+        "Farting in a leotard and hoping no one notices.",
+        "Participating.",
+        "Going to bed at a reasonable hour.",
+        "Smashing my balls at the moment of climax.",
+        "Making out and stuff.",
+        "Menopause.",
+        "The government.",
+        "The graceful path of an autumn leaf as it falls to its earthen cradle.",
+        "Tender chunks of all-white-meat chicken.",
+        "Twenty cheerleaders laughing at your tiny penis.",
+        "Mommy and daddy fighting all the time.",
+        "Playing my asshole like a trumpet.",
+        "Getting naked too soon.",
+        "A slowly encroaching circle of wolves.",
+        "Officer Arroyo in a suit with perfect hair, while he tells you beautiful lies.",
+        "Seizing control of the means of production.",
+        "Awesome pictures of planets and stuff.",
+        "A genetic predisposition for double penetration.",
+        "The flaming wreckage of the International Space Station.",
+        "Waking up inside of a tornado.",
+        "When the big truck goes \"Toot! Toot!\"",
+        "The fear and hatred in men's hearts.",
+        "Getting killed and dragged up a tree by a feral Demi.",
+        "Eternal screaming madness.",
+        "Jace's hot friends.",
+        "Salsa Night at The Bee Spit Tavern.",
+        "The clown that followed me home from the grocery store.",
+        "Watching a hot person eat.",
+        "Pretending to be one of the guys but actually being the spider god.",
+        "Wearing a strap.",
+        "An empowered woman.",
+        "Exchanging blowjobs for favors.",
+        "Being a really, really good girl.",
+        "All these people I've killed.",
+        "Working so hard to have muscles and then having them.",
+        "A tiny fireman who puts out tiny fires.",
+        "Bryce's dad but if he had a huge muscles and a rhinoceros cock.",
+        "Chipotle."
+    ]
+}
